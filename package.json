@@ -2,7 +2,7 @@
   "name": "test-app-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wonjunkim.github.io/test-app-react",
+  "homepage": "./",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
